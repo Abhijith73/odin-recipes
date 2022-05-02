@@ -1,0 +1,1 @@
+This is my First project from Odin. I'm also self taught.
